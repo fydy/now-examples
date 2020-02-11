@@ -1,4 +1,4 @@
 {
   "version": 2,
-  "builds": [{ "src": "*.php", "use": "@juicyfx/php" }]
+  "builds": [{ "src": "*.php", "use": "@juicyfx/php@0.0.8-canary.26" }]
 }
